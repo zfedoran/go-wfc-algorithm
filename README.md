@@ -1,6 +1,6 @@
 # go-wfc-algorithm
 
-Animated example showing randomly generated constraint based tile maps using the `go-wfc` package.
+Animated example showing randomly generated constraint based tile maps using the [go-wfc](https://github.com/zfedoran/go-wfc) package.
 
 View the browser build here:
 https://zfedoran.github.io/go-wfc-algorithm/
